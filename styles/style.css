@@ -1,4 +1,4 @@
-<style>#navbar {
+#navbar {
   margin: 0;
   padding: 0;
   list-style-type: none;
@@ -8,4 +8,31 @@
   display: inline;
 }
 
-</style>
+a {
+  text-decoration: none;
+}
+.link_menu {
+  color: cornflowerblue;
+  font-size: 16px;
+  line-height: 20px;
+}
+.title {
+  color: #222222;
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: bold;
+}
+.title2 {
+  color: coral;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 80px;
+}
+.text {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  color: #7d7987;
+}
